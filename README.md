@@ -1,1 +1,1 @@
-This repository if for ALX System Engineering Devops projects
+This repository is for ALX System Engineering Devops projects
